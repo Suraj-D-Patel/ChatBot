@@ -5,6 +5,6 @@
 
 export const environment = {
   production: false,
-  API_KEY: 'a073fe1899cc4560b98bf584434e60bc'
+  API_KEY: 'a073fe1899cc4560b98cg584434f60cd'
 };
 
